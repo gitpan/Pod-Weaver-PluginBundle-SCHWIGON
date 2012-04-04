@@ -48,7 +48,7 @@
          "web" : "http://github.com/renormalist/Pod-Weaver-PluginBundle-SCHWIGON"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_Dist_Zilla" : {
       "plugins" : [
          {

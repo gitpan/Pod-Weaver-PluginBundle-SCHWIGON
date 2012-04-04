@@ -24,7 +24,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Pod-Weaver-PluginBundle-SCHWIGON
   homepage: http://metacpan.org/release/Pod-Weaver-PluginBundle-SCHWIGON
   repository: git://github.com/renormalist/Pod-Weaver-PluginBundle-SCHWIGON.git
-version: 0.001
+version: 0.002
 x_Dist_Zilla:
   plugins:
     -

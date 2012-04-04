@@ -6,7 +6,7 @@ BEGIN {
   $Pod::Weaver::PluginBundle::SCHWIGON::AUTHORITY = 'cpan:SCHWIGON';
 }
 {
-  $Pod::Weaver::PluginBundle::SCHWIGON::VERSION = '0.001';
+  $Pod::Weaver::PluginBundle::SCHWIGON::VERSION = '0.002';
 }
 # ABSTRACT: Document your modules like SCHWIGON does
 
